@@ -9,14 +9,14 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=salekmasudparvez&theme=neon&stroke=EB6EE7" alt="GitHub Streak" style="width: 100%;" />
   </a>
 </p>
-## :🚀 About Me
+
+## 🚀 About Me
+
 <p aling='center'>Hi, I'm Parvez, a highly motivated junior frontend web-developer with a strong
 foundation in HTML, CSS, Tailwind, JavaScript, React, and MongoDB. Keen on
 injecting creativity and technical expertise into dynamic projects, with a focus on
 enhancing user experience through responsive design and visually engaging web
 interfaces.</p>
-
-
 
 ## :computer: Technologies that I know
 
