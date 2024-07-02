@@ -13,7 +13,7 @@
 
 ## :computer: Technologies that I know
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div style="display: inline-flex; justify-content: center;">
   <div style="background-color: #f0f0f0; border: 2px solid #ccc; height: 120px; width: 120px; display: flex; align-items: center; justify-content: center; margin: 5px; border-radius: 30px;">
     <img src="./assets/html-5.svg" alt="HTML5" style="height: 100px;" />
   </div>
