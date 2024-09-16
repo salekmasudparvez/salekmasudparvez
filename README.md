@@ -5,8 +5,9 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=salekmasudparvez&theme=neon&stroke=EB6EE7" alt="GitHub Streak" style="width: 100%;" />
+  
+  <a align="center" href="https://git.io/streak-stats">
+  <img style="width:100%" src="https://github-readme-streak-stats.herokuapp.com?user=salekmasudparvez&theme=neon&stroke=EB6EE7?user=&theme=dark&hide_border=true&border_radius=9.7&type=png&background=45%2C000000%2C570255" alt="GitHub Streak" />
   </a>
 </p>
 
