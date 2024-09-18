@@ -3,9 +3,7 @@
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
-
-<a href="https://git.io/streak-stats">
-<img style="width:100%" src="https://streak-stats.demolab.com?user=salekmasudparvez" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=salekmasudparvez&type=png" alt="GitHub Streak" /></a>
 
 ## 🚀 About Me
 
