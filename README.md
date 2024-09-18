@@ -3,7 +3,7 @@
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
-<a  href="https://git.io/streak-stats"><img style="width:100%" src="https://github-readme-streak-stats.herokuapp.com?user=salekmasudparvez&type=png" alt="GitHub Streak" /></a>
+<a  href="https://git.io/streak-stats"><img style="width:100%" src="https://github-readme-streak-stats.herokuapp.com?user=salekmasudparvez&theme=dark&type=png&background=45%2C000000%2C580066&ring=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&fire=CA00EB&dates=EBEBEB&excludeDaysLabel=EBEBEB&stroke=CA00EB&currStreakLabel=CA00EB" alt="GitHub Streak" /></a>
 
 ## 🚀 About Me
 
