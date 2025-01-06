@@ -46,6 +46,9 @@
     <img src="./assets/nodejs-wordmark.svg" alt="Node.js" style="height: 100px;" />
   </span>
   <span style="background-color: #f0f0f0; border: 2px solid #ccc; height: 120px; width: 120px; display: flex; align-items: center; justify-content: center; margin: 5px; border-radius: 30px;">
+    <img src="./assets/devicon--mongoose-wordmark.svg" alt="Node.js" style="height: 100px;" />
+  </span>
+  <span style="background-color: #f0f0f0; border: 2px solid #ccc; height: 120px; width: 120px; display: flex; align-items: center; justify-content: center; margin: 5px; border-radius: 30px;">
     <img src="./assets/logos--typescript-icon.svg" alt="Node.js" style="height: 100px;" />
   </span>
   <span style="background-color: #f0f0f0; border: 2px solid #ccc; height: 120px; width: 120px; display: flex; align-items: center; justify-content: center; margin: 5px; border-radius: 30px;">
