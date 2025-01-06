@@ -3,7 +3,7 @@
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salekmasudparvez)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salekmasudparvez&show_icons=true&theme=jolly)
 
 ## 🚀 About Me
 
