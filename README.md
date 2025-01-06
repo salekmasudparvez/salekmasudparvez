@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salekmasudparvez&show_icons=true&theme=jolly&hide_title=true&height=180)
 
-## :Top Languages
+## :chart_with_upwards_trend: Top Languages
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salekmasudparvez&theme=jolly&hide_title=true&height=180)](https://github.com/salekmasudparvez)
 
