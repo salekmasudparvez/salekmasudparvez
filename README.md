@@ -17,7 +17,7 @@
 
 <p align="center">
   Hi, I'm Parvez, a highly motivated junior frontend web-developer with a strong
-  foundation in HTML, CSS, Tailwind, JavaScript, React, and MongoDB. Keen on
+  foundation in HTML, CSS, Tailwind, JavaScript, React,Typescript and Mongoose with Mongodb Keen on
   injecting creativity and technical expertise into dynamic projects, with a focus on
   enhancing user experience through responsive design and visually engaging web
   interfaces.
