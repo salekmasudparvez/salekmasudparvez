@@ -4,20 +4,17 @@
 
 ## :chart_with_upwards_trend: Current Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salekmasudparvez&show_icons=true&theme=jolly&hide_title=true&height=180)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salekmasudparvez&show_icons=true&theme=jolly&hide_title=true)
 
 ## :chart_with_upwards_trend: Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salekmasudparvez&theme=jolly&hide_title=true&height=180)](https://github.com/salekmasudparvez)
-
-
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salekmasudparvez&theme=jolly&hide_title=true)](https://github.com/salekmasudparvez)
 
 ## 🚀 About Me
 
 <p align="center">
-  Hi, I'm Parvez, a highly motivated junior frontend web-developer with a strong
-  foundation in HTML, CSS, Tailwind, JavaScript, React,Typescript and Mongoose with Mongodb Keen on
+  Hi, I'm Parvez, a highly motivated junior frontend web developer with a strong
+  foundation in HTML, CSS, Tailwind, JavaScript, React, TypeScript, and Mongoose with MongoDB. Keen on
   injecting creativity and technical expertise into dynamic projects, with a focus on
   enhancing user experience through responsive design and visually engaging web
   interfaces.
@@ -54,20 +51,18 @@
     <img src="./assets/nodejs-wordmark.svg" alt="Node.js" style="height: 100px;" />
   </span>
   <span style="background-color: #f0f0f0; border: 2px solid #ccc; height: 120px; width: 120px; display: flex; align-items: center; justify-content: center; margin: 5px; border-radius: 30px;">
-    <img src="./assets/devicon--mongoose-wordmark.svg" alt="Node.js" style="height: 100px;" />
+    <img src="./assets/devicon--mongoose-wordmark.svg" alt="Mongoose" style="height: 100px;" />
   </span>
   <span style="background-color: #f0f0f0; border: 2px solid #ccc; height: 120px; width: 120px; display: flex; align-items: center; justify-content: center; margin: 5px; border-radius: 30px;">
-    <img src="./assets/logos--typescript-icon.svg" alt="Node.js" style="height: 100px;" />
+    <img src="./assets/logos--typescript-icon.svg" alt="TypeScript" style="height: 100px;" />
   </span>
   <span style="background-color: #f0f0f0; border: 2px solid #ccc; height: 120px; width: 120px; display: flex; align-items: center; justify-content: center; margin: 5px; border-radius: 30px;">
-    <img src="./assets/skill-icons--redux.svg" alt="Node.js" style="height: 100px;" />
+    <img src="./assets/skill-icons--redux.svg" alt="Redux" style="height: 100px;" />
   </span>
 </div>
 
 ## :eyes: Current Overview
 
-### 🌱 I’m exploring - Advanced topics in Redux.
-
-### 👯 I’m looking - To collaborate on open source projects.
-
-### 🤔 I’m trying - To learn web development.
+### 🌱 Currently exploring: Advanced topics in postgreSQL   
+### 👯 Looking to collaborate on: Open source projects  
+### 🤔 Currently learning: Full-stack web development
